@@ -1,6 +1,9 @@
 {
   "name": "react-shopping-card",
   "version": "0.1.0",
+  "engines": {
+    "node": "v12.16.2"
+  },
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.5",
