@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1", 
+        "brand":"React", 
+        "model":"React js tutorial " ,
+        "price":"448,99" ,
+        "image":"https://elysiumacademy.org/wp-content/uploads/2018/12/REACT-JS.jpg" ,
+        "sizes": [100,150,60]
+    },
+    {
+        "id":"2",
+        "brand":"Node Js",
+        "model":"Practice Node Js ",
+        "price":"309",
+        "image":"https://miro.medium.com/max/4000/1*-8kIoJKyDn-j1WPgfTvmew.jpeg",
+        "sizes": [150]
+    },
+    {
+        "id":"3",
+        "brand":"Angular Js",
+        "model":"Angular Js Learning Week",
+        "price":"329,70 ",
+        "image":"https://digitaldefynd.com/wp-content/uploads/2017/12/Best-AngularJS-Training-and-Courses.png",
+        "sizes": [100,170]
+    },
+    {
+        "id":"4",
+        "brand":"Photoshop",
+        "model":"Learn Latest PhotoshopX",
+        "price":"2000",
+        "image":"https://idesignschool.org/images/learn-photoshop.jpg",
+        "sizes": [150,170,100,60]
+    },
+    {
+        "id":"5",
+        "brand":"Machine Learning",
+        "model":"Machine Learning models",
+        "price":"5006",
+        "image":"https://i2.wp.com/www.coriers.com/wp-content/uploads/2019/04/main-qimg-bb65875b4670d348f7f26a4a26b5e016.png?fit=602%2C290&ssl=1",
+        "sizes": [170,60,100]
+    }
+]
